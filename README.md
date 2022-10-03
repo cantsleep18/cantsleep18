@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**cantsleep18/cantsleep18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=Computer-Science-Engineering,clone-zoom&hide=Procfile&layout=compact&langs_count=10"/>
+  
+  ### 🐣 Kim Jaebean (Cantsleep)  
+  ---
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcantsleep18&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false"/></a>
+  <a href="https://solved.ac/cantsleep"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=cantsleep"/></a>
+  
+  <a><img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/></a> 
+  <a><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"</a>
+  <br>
+ 
+</div>
