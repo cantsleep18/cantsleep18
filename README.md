@@ -2,7 +2,7 @@
   
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=Computer-Science-Engineering,clone-zoom&hide=Procfile&layout=compact&langs_count=10"/>
   
-  ### :computer: Kim Jaebean (Cantsleep)  
+  ### :computer: Kim Jaebean  
   <br>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcantsleep18&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false"/></a>
   <a href="https://solved.ac/cantsleep"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=cantsleep"/></a>
