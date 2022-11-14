@@ -19,4 +19,4 @@
   <a><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white"/></a>
 <!--   <a><img src="https://img.shields.io/badge/chainlink-375BD2?style=flat&logo=chainlink&logoColor=white"/></a> -->
  
-</div>
+</div> 
