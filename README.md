@@ -12,7 +12,7 @@
   
   <a><img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/></a> 
   <a><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/></a>
-  <a><img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=go&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/></a>
 <!--   <a><img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/><a>   -->
   
   <a><img src="https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white"/></a>
